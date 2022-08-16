@@ -1,4 +1,4 @@
-# Get all company info
+ Get all company info
 
 **Method** : `GET`
 
@@ -6,7 +6,7 @@
 
 **Auth required** : `False`
 
-## Success Responses
+ Success Responses
 
 **Code** : `200 OK`
 
